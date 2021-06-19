@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ImageMemo</string>
+    <string name="title">Image Memorisation Game</string>
+    <string name="game_button">game_button</string>
+    <string name="cardBack">cardBack</string>
+    <string name="play">Play</string>
+    <string name="high_score">High score</string>
+    <string name="setting">Setting</string>
+    <string name="switch_sound">Sound</string>
+    <string name="switch_vibrate">Vibrate</string>
+    <string name="save_settings">Long press to save settings</string>
+    <string name="score">00:00:00</string>
+    <string name="default_score">00:00:00</string>
+    <string name="share_button">Share my score!</string>
+</resources>
